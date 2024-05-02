@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "glob": "^8.1.0",
-    "vite": "^4.5.2"
+    "vite": "^4.5.2",
+    "izitoast": "^1.4.0"
   },
   "author": "1madloony",
   "license": "ISC",
